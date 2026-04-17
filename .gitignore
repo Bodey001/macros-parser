@@ -1,0 +1,7 @@
+# Ignore all files in input and output directories
+input/*
+output/*
+
+# But do not ignore the .gitkeep files (which forces Git to track the folders)
+!input/.gitkeep
+!output/.gitkeep

@@ -1,0 +1,15 @@
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\bin\Debug\net10.0\VbaMacroParser.exe
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\bin\Debug\net10.0\VbaMacroParser.deps.json
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\bin\Debug\net10.0\VbaMacroParser.runtimeconfig.json
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\bin\Debug\net10.0\VbaMacroParser.dll
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\bin\Debug\net10.0\VbaMacroParser.pdb
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\obj\Debug\net10.0\VbaMacroParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\obj\Debug\net10.0\VbaMacroParser.AssemblyInfoInputs.cache
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\obj\Debug\net10.0\VbaMacroParser.AssemblyInfo.cs
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\obj\Debug\net10.0\VbaMacroParser.csproj.CoreCompileInputs.cache
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\obj\Debug\net10.0\VbaMacroParser.sourcelink.json
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\obj\Debug\net10.0\VbaMacroParser.dll
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\obj\Debug\net10.0\refint\VbaMacroParser.dll
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\obj\Debug\net10.0\VbaMacroParser.pdb
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\obj\Debug\net10.0\VbaMacroParser.genruntimeconfig.cache
+C:\Users\o-egbinola\Downloads\macros-parser\src\VbaMacroParser\obj\Debug\net10.0\ref\VbaMacroParser.dll
